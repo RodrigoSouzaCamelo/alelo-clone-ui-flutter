@@ -14,6 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_svg:
   carousel_slider:
+  flutter_money_formatter:
 
 dev_dependencies:
   flutter_test:
