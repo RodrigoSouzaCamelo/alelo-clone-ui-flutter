@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const AleloCloneApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class AleloCloneApp extends StatelessWidget {
+  const AleloCloneApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
